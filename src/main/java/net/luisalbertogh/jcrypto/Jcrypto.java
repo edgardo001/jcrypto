@@ -1,6 +1,3 @@
-/**
- * © 2009-2012 Tex Toll Services, LLC
- */
 package net.luisalbertogh.jcrypto;
 
 import java.awt.Dimension;
